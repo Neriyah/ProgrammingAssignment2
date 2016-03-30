@@ -2,6 +2,7 @@
 ## After following the example of the mean and changing the specific things to adapt to a inverse matrix - that's what I got.
 ## I must say that it would be almos impossible to get to this function by myself with only the 
 ## Knowladge from the classes. I would like to know more to the point I could figure this out by myself
+## Just wanted to point out that I have two names Neriyah and Flavio if you are confused
 
 
 makeCacheMatrix <- function(x = matrix()) {
